@@ -1,0 +1,29 @@
+body{
+	background-color: #9FAFAB;
+	color: #4D4B44;
+}
+h1{
+	font-family: cursive, arial;
+	color: #4D4B44;
+}
+ul{
+	list-style-type: none;
+}
+header{
+	border: solid black 1px;
+	background-color: #F2E7E7;
+	border-radius: 3px;
+	text-align: center;
+}
+.conteneur{
+	display: flex;
+}
+.item{
+	display: flex;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	border: solid black 1px;
+	border-radius: 3px;
+	background-color: #F2E7E7;
+}
