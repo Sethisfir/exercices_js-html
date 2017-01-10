@@ -17,6 +17,7 @@ header{
 }
 .conteneur{
 	display: flex;
+	flex-wrap: wrap;
 }
 .item{
 	display: flex;
