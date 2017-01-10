@@ -15,16 +15,18 @@ header{
 	border-radius: 3px;
 	text-align: center;
 }
-.conteneur{
+#conteneur{
 	display: flex;
 	flex-wrap: wrap;
 }
-.item{
+li{
 	display: flex;
 	height: 40px;
 	width: 40px;
-	text-align: center;
+	justify-content: center;
+	align-items: center;
+	text-orientation: 20px;
 	border: solid black 1px;
-	border-radius: 3px;
+	border-radius: 10px;
 	background-color: #F2E7E7;
 }
